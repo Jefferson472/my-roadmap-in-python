@@ -8,8 +8,8 @@ Veja também este conteúdo  no [Notion](https://lydian-basement-f03.notion.site
 
 - **Conteúdo**:
     - [X]  Variáveis, Tipos e Estruturas de Dados
-    - [ ]  Loops, Condicionais, Métodos e Funções
-    - [ ]  Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
+    - [X]  Loops, Condicionais, Métodos e Funções
+    - [X]  Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
 - **Meus Repositórios:**
     
     [Primeiro Programa](https://github.com/Jefferson472/Ola-Mundo)
@@ -33,21 +33,21 @@ Veja também este conteúdo  no [Notion](https://lydian-basement-f03.notion.site
 
 # Python: Orientação Objeto
 
-- Conteúdo:
-    - [ ]  Classes
-    - [ ]  **Objeto**
-    - [ ]  **Atributos**
-    - [ ]  **Métodos**
-    - [ ]  **Mensagem**
-    - [ ]  **Herança**
-    - [ ]  **Polimorfismo**
-    - [ ]  **Encapsulamento**
-    - [ ]  Interface
-- Meus Repositórios:
+- **Conteúdo:**
+    - [X]  Classes
+    - [X]  **Objeto**
+    - [X]  **Atributos**
+    - [X]  **Métodos**
+    - [X]  **Mensagem**
+    - [X]  **Herança**
+    - [X]  **Polimorfismo**
+    - [X]  **Encapsulamento**
+    - [X]  Interface
+- **Meus Repositórios:**
     
     [Jogo da Forca](https://github.com/Jefferson472/small-projects-in-pyhton/tree/main/JogoForca)
     
-- Cursos, Vídeos, Tutoriais:
+- **Cursos, Vídeos, Tutoriais:**
     
     [Curso on-line Fundamentos de Programação: Design Orientado a Objetos | LinkedIn Learning, anteriormente Lynda.com](https://www.linkedin.com/learning/fundamentos-de-programacao-design-orientado-a-objetos?u=50094033)
     
@@ -58,14 +58,14 @@ Veja também este conteúdo  no [Notion](https://lydian-basement-f03.notion.site
 
 # Banco de Dados com Python
 
-- Conteúdo:
-    - [ ]  SGBD
-    - [ ]  Banco de Dados Relacionais, Chaves, Relacionamentos
-    - [ ]  CRUD
-    - [ ]  Banco de Dados SQL
-    - [ ]  Banco de Dados NoSQL
-    - [ ]  Banco de Dados MongoDB
-- Meus Repositórios:
+- **Conteúdo:**
+    - [X]  SGBD
+    - [X]  Banco de Dados Relacionais, Chaves, Relacionamentos
+    - [X]  CRUD
+    - [X]  Banco de Dados SQL
+    - [X]  Banco de Dados NoSQL
+    - [X]  Banco de Dados MongoDB
+- **Meus Repositórios:**
     
     [Sistema de Cadastro](https://github.com/Jefferson472/small-projects-in-pyhton/tree/main/SistemaDeCadastro)
     
@@ -75,7 +75,7 @@ Veja também este conteúdo  no [Notion](https://lydian-basement-f03.notion.site
     
     [](https://www.sqlite.org/)
     
-    [https://docs.python.org/3/library/sqlite3.html](https://docs.python.org/3/library/sqlite3.html)
+    [Documentação](https://docs.python.org/3/library/sqlite3.html)
     
     [Curso on-line Fundamentos de Programação: Bancos de Dados | LinkedIn Learning, anteriormente Lynda.com](https://www.linkedin.com/learning/fundamentos-de-programacao-bancos-de-dados?u=50094033)
     
@@ -84,13 +84,13 @@ Veja também este conteúdo  no [Notion](https://lydian-basement-f03.notion.site
 
 # Desenvolvimento Web
 
-- Conteúdo:
-    - [ ]  Entenda Protocolo HTTP/HTTPS e os principais métodos (GET/POST)
-    - [ ]  Entenda Rest
-    - [ ]  Arquitetura de Softwares - MVC/MTV
-    - [ ]  Django
-    - [ ]  Heroku Deploy
-- Meus Repositórios:
+- **Conteúdo:**
+    - [X]  Entenda Protocolo HTTP/HTTPS e os principais métodos (GET/POST)
+    - [X]  Entenda Rest
+    - [X]  Arquitetura de Softwares - MVC/MTV
+    - [X]  Django
+    - [X]  Heroku Deploy
+- **Meus Repositórios:**
 
     [Heroku Deploy](https://alurareceitadjango.herokuapp.com/)
     
