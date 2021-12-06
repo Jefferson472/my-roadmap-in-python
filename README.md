@@ -7,7 +7,7 @@ Veja também este conteúdo  no [Notion](https://lydian-basement-f03.notion.site
 # Python: Conceitos Básico
 
 - **Conteúdo**:
-    - [ X ]  Variáveis, Tipos e Estruturas de Dados
+    - [X]  Variáveis, Tipos e Estruturas de Dados
     - [ ]  Loops, Condicionais, Métodos e Funções
     - [ ]  Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
 - **Meus Repositórios:**
