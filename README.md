@@ -91,6 +91,7 @@ Veja também este conteúdo  no [Notion](https://lydian-basement-f03.notion.site
     - [ ]  Django
     - [ ]  Heroku Deploy
 - Meus Repositórios:
+
     [Heroku Deploy](https://alurareceitadjango.herokuapp.com/)
     
     [Apps em Django](https://github.com/Jefferson472/apredendo-django)
